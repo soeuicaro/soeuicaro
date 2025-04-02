@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Olá, eu sou Icaro!
 
-<!--
-**soeuicaro/soeuicaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Desenvolvimento de Sistemas e estou sempre explorando novas tecnologias para aprimorar minhas habilidades. Atualmente, estudo:
 
-Here are some ideas to get you started:
+🖥️ Programação: JavaScript, HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗄️ Banco de Dados: MySQL, PostgreSQL
+
+🎨 UI/UX Design: Figma
+
+🚀 Outras Tecnologias: Node.js, React, Express.js
+
+🌱 O que estou aprendendo?
+
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web, banco de dados e boas práticas de UI/UX para criar aplicações mais intuitivas e eficientes.
+
+📈 Estatísticas do GitHub
+🔗 Conecte-se comigo
+💡 Sempre buscando aprender e evoluir no mundo do desenvolvimento! 🚀
